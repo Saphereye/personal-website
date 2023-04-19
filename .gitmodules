@@ -1,0 +1,7 @@
+[submodule "saphereye-site/themes/PaperMod"]
+	path = saphereye-site/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "saphereye-site/public"]
+	path = saphereye-site/public
+	url = https://github.com/Saphereye/Saphereye.github.io.git
+	branch = main
