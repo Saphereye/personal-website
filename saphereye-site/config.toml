@@ -1,0 +1,4 @@
+baseURL = 'http://saphereye.github.io/'
+languageCode = 'en-us'
+title = 'Saphereye Website'
+theme = 'PaperMod'
